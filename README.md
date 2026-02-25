@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- غيّر رابط الصورة بالرابط اللي يعجبك (بانر أو صورة أنيمي) -->
-  <img src="https://your-banner-image-url" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/Youssefelshanawany/Youssefelshanawany/refs/heads/main/download%20(4).jfif" />
 </p>
 
 <!-- =========================
