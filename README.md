@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- غيّر رابط الصورة بالرابط اللي يعجبك (بانر أو صورة أنيمي) -->
-  <img src="https://raw.githubusercontent.com/Youssefelshanawany/Youssefelshanawany/refs/heads/main/Copilot_20260225_225605.png" />
+  <img src="https://raw.githubusercontent.com/Youssefelshanawany/Youssefelshanawany/refs/heads/main/p2.png" />
 </p>
 
 <!-- =========================
