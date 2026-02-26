@@ -47,7 +47,7 @@
 <p align="left">
   <!-- غيّر الروابط للإيميل وحساباتك -->
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/Youssefelshanawany/Youssefelshanawany/refs/heads/main/gmail.png" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
