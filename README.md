@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/Youssefelshanawany/Youssefelshanawany/refs/heads/main/twitter.png" />
   </a>
   <a href="https://www.youtube.com/@YOUR_CHANNEL">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
